@@ -1,0 +1,33 @@
+[30-Jan-2018 10:52:38 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/signup.php on line 31
+[30-Jan-2018 10:54:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/signup.php on line 31
+[30-Jan-2018 10:58:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/signup.php on line 31
+[30-Jan-2018 11:08:13 America/Chicago] PHP Fatal error:  Call to a member function fetchColumn() on boolean in /home4/mbluestein88/eweek2018.com/Admin/signup.php on line 32
+[30-Jan-2018 11:44:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mbluestein88/eweek2018.com/Admin/signup.php:4) in /home4/mbluestein88/eweek2018.com/Admin/signup.php on line 72
+[30-Jan-2018 11:46:22 America/Chicago] PHP Fatal error:  Call to undefined function replace() in /home4/mbluestein88/eweek2018.com/Admin/signup.php on line 73
+[30-Jan-2018 11:47:04 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/mbluestein88/eweek2018.com/Admin/signup.php on line 73
+[30-Jan-2018 11:58:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mbluestein88/eweek2018.com/Admin/fetch_qr.php:4) in /home4/mbluestein88/eweek2018.com/Admin/fetch_qr.php on line 42
+[30-Jan-2018 12:02:52 America/Chicago] PHP Fatal error:  Call to undefined function replace() in /home4/mbluestein88/eweek2018.com/Admin/fetch_qr.php on line 43
+[30-Jan-2018 12:08:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/add_admin.php on line 33
+[30-Jan-2018 12:09:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mbluestein88/eweek2018.com/Admin/add_admin.php:4) in /home4/mbluestein88/eweek2018.com/Admin/add_admin.php on line 79
+[30-Jan-2018 12:10:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/mbluestein88/eweek2018.com/Admin/add_admin.php on line 105
+[30-Jan-2018 12:12:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/mbluestein88/eweek2018.com/Admin/login.php:4) in /home4/mbluestein88/eweek2018.com/Admin/login.php on line 73
+[30-Jan-2018 12:14:22 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 102
+[30-Jan-2018 12:14:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 153
+[30-Jan-2018 12:14:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 154
+[30-Jan-2018 12:14:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 155
+[30-Jan-2018 12:14:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 156
+[30-Jan-2018 12:14:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 157
+[30-Jan-2018 12:14:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 158
+[30-Jan-2018 12:14:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 159
+[30-Jan-2018 12:14:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 160
+[30-Jan-2018 12:14:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 161
+[30-Jan-2018 12:14:22 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 177
+[30-Jan-2018 12:16:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 153
+[30-Jan-2018 12:16:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 154
+[30-Jan-2018 12:16:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 155
+[30-Jan-2018 12:16:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 156
+[30-Jan-2018 12:16:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 157
+[30-Jan-2018 12:16:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 158
+[30-Jan-2018 12:16:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 159
+[30-Jan-2018 12:16:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 160
+[30-Jan-2018 12:16:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/mbluestein88/eweek2018.com/Admin/users.php on line 161

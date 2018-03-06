@@ -1,0 +1,310 @@
+/*!
+ * Start Bootstrap - Full (https://startbootstrap.com/template-overviews/full)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full/blob/master/LICENSE)
+ */
+
+
+/*home*/
+
+@import url("animate.css");
+
+@font-face {
+    font-family: Milkshake;
+    src: url(Milkshake.otf);
+    }
+
+    @font-face {
+        font-family: DS-Digital;
+        src: url(Digital.otf);
+        }
+
+    .col-centered{
+        float: none;
+        margin: auto;
+    }
+
+.ignite {
+    font-family: Milkshake !important; 
+    text-transform: lowercase !important; 
+    font-weight: 200 !important;
+    font-size: 3.5em !important;
+}
+
+.main-title {
+    font-family: DS-Digital !important;
+    font-size: 4em !important;
+    text-align: right;
+    color: #012251;
+}
+
+.sub-title {
+    font-family: DS-Digital !important;
+    font-size: 2.5em !important;
+    text-align: right;
+    color: #012251;
+}
+
+/* body {
+  background: url('') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+    background-color: #a8a8a8;
+} */
+
+.logo{
+    width:40%;
+    height:40%;
+}
+
+html, body {
+margin: 0;
+}
+
+#mid-section1 {
+    height: 30%; 
+    margin-top: 5%;
+    display:table;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    width: 40%;
+}
+
+#mid-section1 h1 {
+    display:table-cell; 
+    vertical-align:middle;
+    text-align:center; 
+    font-size: 60px !important;
+    font-family: DS-Digital;
+    color: #012251;
+
+}
+
+#mid-section1 .dash {
+    color: #d35213;
+    font-size: 50px;
+    width: 10%;
+}
+
+#mid-section1 .left {
+    width: 10%;
+}
+
+#mid-section1 .right {
+    width: 10%;
+}
+
+#mid-section2 {
+    height: 100%; 
+    margin-top: 5%;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+#wb{
+    background-color: white;
+    border: 2px solid darkblue;
+}
+
+#mid-section2 .btn-circle.btn-xl {
+  width: 100px;
+  height: 100px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 100px;
+  background-color: #d35213;
+    margin: 2%;
+}
+
+#mid-section2 i{
+    color: white;
+    font-size: 50px;
+}
+
+#mid-section2 .btn-circle.btn-xl:hover {
+  background-color: #012251;
+} 
+
+.caption{
+    margin-left: 1%;
+}
+
+.caption h4 {
+
+    color: #d35213 !important; 
+
+}
+
+
+#home p{
+    text-align: center;
+    color: #fff;
+    margin-left: 3%;
+    margin-right: 3%;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+/*Contact*/
+
+#contact .row{
+    align-content: center;
+    text-align: center;
+    width: 30% !important;
+    margin-top: 15% !important;
+}
+
+/*meet us*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,400italic);
+
+
+#meetus html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#meetus body {
+  min-height: 3000px;
+  padding-top: 70px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#meetus .thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+#meetus .thumbnail img {
+    width: 100%;
+}
+
+#meetus #mid-section1 {
+    height: 30%; 
+    margin-top: 7%;
+    margin-bottom: 4%;
+    display:table;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    width: 40%;
+}
+
+#meetus p, a{
+    color: white;
+}
+
+#meetus h5{
+    color: #FF6600;
+}
+
+#meetus .nav-tabs{
+    border-bottom: 1px solid #d35213;
+}
+
+#nonhomenav {
+    background-color: none !important;
+}
+
+.navbar-dark {
+    background-color:  #a8a8a8;
+}
+
+.ignite-creativity {
+    text-align: right !important;
+    padding-top: 15px;
+}
+
+/*Events*/
+
+#events p, h2, h4{
+    color: white !important;
+}
+
+#events a{
+    color: white !important;
+    margin-left: 4%;
+}
+
+#schedule li{
+    margin-left: 4%;
+}
+
+#events .nav-tabs{
+    border-bottom: 1px solid #d35213;
+}
+
+#events h5{
+    color: #d35213;
+    text-transform: uppercase;
+}
+
+.mid-white {
+    background-color: white;
+}
+
+#upper {
+    background-image: url('header.png');
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+#bottom {
+    background-image: url('bottom.png');
+    background-size: cover;
+    background-color: #a8a8a8;
+    min-height: 200px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+
+
+#about {
+    background-color:  #d35213;
+    color: black;
+    padding: 12px 30px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    }
+
+#about p {
+    color: white;
+}
+
+#main-title {
+    padding: 15px;
+}
+
+@media only screen and (max-device-width : 640px) {
+#events .logo{
+    width: 20%;
+    height: 20%;
+}
+
+#events .container {
+        padding-top: 5%;
+    }
+#events .h4 {
+        font-size: 1.2rem !important;
+    }
+
+
+/* .page {
+    overflow: hidden;
+    background: url(../flames.svg) no-repeat center bottom;
+    background-size: contain;
+} */
+
+}
+
